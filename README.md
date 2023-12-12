@@ -6,12 +6,12 @@ This was a largely interdisciplinary project that combined the domains of quantu
 
 🌱 In my future career, I would like to continue developing my analytical skills and head towards data analysis and data science. I am currently exploring the realm of Natural Language Processing.
 
+📨 If you are looking for a teammate - drop me an email! e.burakova@yahoo.com
+
 # NAVIGATION
 
 - [https://github.com/eburakova/nmr_utilities](`nmr_utils`) - simple scripts for all things NMR (mostly, for proteins): handy tools for visualization and NUS data handling. 
 - [https://github.com/eburakova/protein_heterogeneity_ssnmr](`protein_heterogeneity_ssnmr`)
-
-📨 If you are looking for a teammate - drop me an email! e.burakova@yahoo.com
 
 <!---
 eburakova/eburakova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
