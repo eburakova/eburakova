@@ -9,8 +9,8 @@ This was a largely interdisciplinary project that combined the domains of quantu
 
 # NAVIGATION
 
-- [https://github.com/eburakova/nmr_utilities](`nmr_utils`) - simple scripts for all things NMR (mostly, for proteins): handy tools for visualization and NUS data handling. 
-- [https://github.com/eburakova/protein_heterogeneity_ssnmr](`protein_heterogeneity_ssnmr`) - the tools related to the paper in [https://doi.org/10.1007/s10858-019-00291-z](J.Biomol.NMR 2022)
+- [`nmr_utils`](https://github.com/eburakova/nmr_utilities) - simple scripts for all things NMR (mostly, for proteins): handy tools for visualization and NUS data handling. 
+- [`protein_heterogeneity_ssnmr`](https://github.com/eburakova/protein_heterogeneity_ssnmr) - the tools related to [the paper in J.Biomol.NMR 2022](https://doi.org/10.1007/s10858-019-00291-z) 
 <!---
 eburakova/eburakova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
