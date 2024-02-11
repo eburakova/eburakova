@@ -3,7 +3,7 @@ Hello there! I am Ekaterina (Katja), I am 30 y.o. and just got my Dr. rer. nat. 
 👩‍🎓 In my doctoral years, I focussed on the applicability and adaptation of existing routines relating protein geometry with the raw data (the sets of chemical shifts) for heterogeneous samples. Besides, I explored and proposed novel heterogeneity metrics. 
 This was a largely interdisciplinary project that combined the domains of quantum physics, molecular biology as well as computer science and programming.
 
-🐠 Currently I am part of a Data Science Bootcamp @ [neue fische](https://github.com/neuefische), where I polish my old skills and learn new ones.  
+🐠 Currently I am a part of the Data Science Bootcamp @ [neue fische](https://github.com/neuefische), where I polish my old skills and learn new ones.  
 
 🌱 In my future career, I would like to combine data science with natural sciences or engineering. 
 
