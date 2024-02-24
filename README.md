@@ -15,10 +15,12 @@ This was a largely interdisciplinary project that combined the domains of quantu
 ## NMR
 - [`nmr_utils`](https://github.com/eburakova/nmr_utilities) - simple scripts for all things NMR (mostly, for proteins): handy tools for visualization and NUS data handling. 
 - [`protein_heterogeneity_ssnmr`](https://github.com/eburakova/protein_heterogeneity_ssnmr) - the tools related to [the paper in J.Biomol.NMR 2022](https://doi.org/10.1007/s10858-019-00291-z)
+## EDA
+- `eda-kc-housing` - [coming soon!] Analysis of price defining factors on the King County housing dataset for a mock client interested in investment into property development. EDA showcase prepared as a part of the DS bootcamp.
 ## Side projects
-- [`geonames_`](https://github.com/eburakova/geoname_matching) - search engine for city names, tolerant to misspellings and outdated names.
+- [`geoname_matching`](https://github.com/eburakova/geoname_matching) - search engine for city names, tolerant to misspellings and outdated names.
 - [`tic-tac-toe`](https://github.com/eburakova/tic-tac-toe) - recentmost showcase of my skills in Python development. This challenge was a part of the DS bootcamp.
-- Ask me about my personal tools for accounting and real-time transaction analysis. 
+- Ask me about my personal tools for **accounting** and **real-time transaction analysis**. 
 
 <!---
 eburakova/eburakova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
