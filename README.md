@@ -1,12 +1,14 @@
 Hello there! I am Ekaterina (Katja), I am 30 y.o. and just got my Dr. rer. nat. title for a work in solid-state protein NMR spectroscopy. 
 
-👩‍🎓 In my doctoral years, I focussed on the applicability and adaptation of existing routines relating protein geometry with the experimental data (the sets of chemical shifts) for highly statically disordered samples. 
-I explored and proposed metrics for residue-wise *degree of disorder*. 
-This was a largely interdisciplinary project that combined the domains of quantum physics, molecular biology as well as computer science and programming.
+👩‍🎓 In my doctoral years, I focussed on feature engineering in protein structural biology. I adapted of existing models of structure - proterty relationship for a specific case of highly statically disordered samples. 
+I explored and proposed scores for the *degree of local disorder*. 
+This was a largely interdisciplinary project that combined the domains of quantum physics, molecular biology as well as data science.
 
-🐠 Currently I am a part of the Data Science Bootcamp @ [neue fische](https://github.com/neuefische), where I polish my old skills and learn new ones.  
+🐠 Currently I am a part of a Data Science Bootcamp @ [neue fische](https://github.com/neuefische), where I polish my old skills and learn new ones.  
 
 🌱 In my future career, I would like to apply methods of data science to solve problems in medical research, agriculture, or energetics.
+
+📊 My main interests are EDA (Exploraive Data Analysis), feature engineering and (especially) vizualizations.
 
 📨 If you are looking for a teammate - drop me an email! e.burakova@yahoo.com
 
