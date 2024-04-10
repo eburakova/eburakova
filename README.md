@@ -8,8 +8,6 @@ This was a largely interdisciplinary project that combined the domains of quantu
 
 🌱 In my future career, I would like to apply methods of data science to solve problems in medical research, agriculture, or energetics.
 
-📊 My technical interests are EDA (Exploraive Data Analysis), feature engineering, vizualizations, and automations.
-
 📨 If you are looking for a teammate - drop me an email! e.burakova@yahoo.com
 
 📍 Bremen, DE
