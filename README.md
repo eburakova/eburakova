@@ -14,6 +14,7 @@ This was a largely interdisciplinary project that combined the domains of quantu
 
 # NAVIGATION
 ## Data analytics
+- [`d-drivers`](https://github.com/eburakova/d-drivers) Data-driven search for traffic drivers. This is the graduation project at the @neuefishe Data science botcamp (Apr 2024). It analyzed the internal content data of EFAHRER.com. 
 - [`eda-kc-housing`](https://github.com/eburakova/eda-kc-housing) Analysis of price defining factors on the King County housing dataset for a mock client interested in investment into property development. EDA showcase prepared as a part of the DS bootcamp.
 ## NMR
 - [`nmr_utils`](https://github.com/eburakova/nmr_utilities) - simple scripts for all things NMR (mostly, for proteins): handy tools for visualization and NUS data handling. 
