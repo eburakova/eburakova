@@ -13,7 +13,7 @@ This was a largely interdisciplinary project that combined the domains of quantu
 📍 Bremen, DE
 
 # NAVIGATION
-## Data analytics
+## Data science
 - [`d-drivers`](https://github.com/eburakova/d-drivers) Data-driven search for traffic drivers. This is the graduation project at the @neuefishe Data science botcamp (Apr 2024). It analyzed the internal content data of EFAHRER.com. 
 - [`eda-kc-housing`](https://github.com/eburakova/eda-kc-housing) Analysis of price defining factors on the King County housing dataset for a mock client interested in investment into property development. EDA showcase prepared as a part of the DS bootcamp.
 ## NMR
