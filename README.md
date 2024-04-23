@@ -4,9 +4,9 @@ Hello there! I am Ekaterina (Katja), I am 30 y.o. and just got my Dr. rer. nat. 
 I explored and proposed scores for the *degree of local disorder*. 
 This was a largely interdisciplinary project that combined the domains of quantum physics, molecular biology as well as data science.
 
-🐠 Currently I am a part of a Data Science Bootcamp @ [neue fische](https://github.com/neuefische), where I polish my old skills and learn new ones.  
+🐠 Graduated from the Data Science Bootcamp @ [neue fische](https://github.com/neuefische), where I prakticed my old skills and learn plently of new ones. 
 
-🌱 In my future career, I would like to apply methods of data science to solve problems in medical research, agriculture, or energetics.
+🌱 In my future career, I would like to apply methods of data science to solve problems in life sciences or engineering.
 
 📨 If you are looking for a teammate - drop me an email! e.burakova@yahoo.com
 
