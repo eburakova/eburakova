@@ -16,7 +16,7 @@ This was a largely interdisciplinary project that combined the domains of quantu
 ## Data science
 - 🏎️ [`d-drivers`](https://github.com/eburakova/d-drivers): **Data-driven search for traffic drivers**. This is the graduation project at the [neue fische](https://github.com/neuefische) Data science bootcamp (Apr 2024). Our team of five analyzed the internal content data of [EFAHRER.com](https://efahrer.chip.de/). We modelled the page impressions in the news feed and built a data app for the editorial managers.
 - 🔥 [`fraud-detection`](https://github.com/eburakova/fraud-detection-energy) - Analyzing energy consumption patterns to detect which clients have meddled with the electrical and gas counters.
-- [`eda-kc-housing`](https://github.com/eburakova/eda-kc-housing) Analysis of price defining factors on the King County housing dataset for a mock client interested in investment into property development. EDA showcase prepared as a part of the DS bootcamp.
+- 🏘️ [`eda-kc-housing`](https://github.com/eburakova/eda-kc-housing) Analysis of price defining factors on the King County housing dataset for a mock client interested in investment into property development. EDA showcase prepared as a part of the DS bootcamp.
 ## NMR
 - [`nmr_utils`](https://github.com/eburakova/nmr_utilities) - simple scripts for all things NMR (mostly, for proteins): handy tools for visualization and NUS data handling. 
 - [`protein_heterogeneity_ssnmr`](https://github.com/eburakova/protein_heterogeneity_ssnmr) - the tools related to [the paper in J.Biomol.NMR 2022](https://doi.org/10.1007/s10858-019-00291-z)
