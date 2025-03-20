@@ -8,7 +8,7 @@ This was a largely interdisciplinary project that combined the domains of quantu
 
 🌱 In my future career, I would like to apply methods of data science to solve problems in life sciences or engineering.
 
-📨 If you are looking for a teammate - drop me an email! e.burakova@yahoo.com
+📨 If you are looking for a teammate - drop me an email! burakova.ek@gmail.com
 
 📍 Bremen, DE
 
