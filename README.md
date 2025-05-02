@@ -13,6 +13,12 @@ This was a largely interdisciplinary project that combined the domains of quantu
 📍 Bremen, DE
 
 # NAVIGATION
+## Hackathon Challenges
+- 🤖 [sort GIT out!](https://github.com/eburakova/sortGIT_out) - **AI-Agentic app to chat with your *local* Git repository.** For CheffTreff Hackathon 2025, solution for Finanz Informatik challange. 🚀💸
+   - Analyses commit messages and difference logs.
+   - Simple, sleek UI (by Streamlit)
+   - At the Hackathon submission, only Gemini is supported.
+   - Developed in <24 hours!
 ## Data science
 - 🏎️ [`d-drivers`](https://github.com/eburakova/d-drivers) - **Data-driven search for traffic drivers**. This is the graduation project at the [neue fische](https://github.com/neuefische) Data science bootcamp (Apr 2024). Our team of five analyzed the internal content data of [EFAHRER.com](https://efahrer.chip.de/). We modelled the page impressions in the news feed and built a data app for the editorial managers.
 - 🔥 [`fraud-detection`](https://github.com/eburakova/fraud-detection-energy) - Analyzing energy consumption patterns to detect which clients have meddled with the electrical and gas counters.
