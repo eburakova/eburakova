@@ -4,7 +4,9 @@ Hello there! I am Ekaterina (Katja), I am about 30 y.o. and just got my Dr. rer.
 I explored and proposed scores for the *degree of local disorder*. 
 This was a largely interdisciplinary project that combined the domains of quantum physics, molecular biology as well as data science.
 
-🐠 Graduated from the Data Science Bootcamp @ [neue fische](https://github.com/neuefische), where I practiced my old skills and learn plently of new ones. 
+🐠 In spring 2024, I graduated from the Data Science Bootcamp @ [neue fische](https://github.com/neuefische), where I practiced my old skills and learn plently of new ones. 
+
+🧑‍🔬 Since 2024, I am working with Czech biotech startup [AI|ffinity](aiffinity.com) as a freelance scientific consultant, data analyst, and a software developer.
 
 🌱 In my future career, I would like to apply methods of data science to solve problems in life sciences or engineering.
 
