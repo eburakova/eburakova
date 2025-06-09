@@ -1,4 +1,4 @@
-Hello there! I am Ekaterina (Katja), I am 30 y.o. and just got my Dr. rer. nat. title for a work in solid-state protein NMR spectroscopy. 
+Hello there! I am Ekaterina (Katja), I am about 30 y.o. and just got my Dr. rer. nat. title for a work in solid-state protein NMR spectroscopy. 
 
 👩‍🎓 In my doctoral years, I focussed on feature engineering in protein structural biology. I adapted of existing models of structure - proterty relationship for a specific case of highly statically disordered samples. 
 I explored and proposed scores for the *degree of local disorder*. 
