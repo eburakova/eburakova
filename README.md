@@ -1,14 +1,14 @@
-Hello there! I am Ekaterina (Katja), I am about 30 y.o. and just got my Dr. rer. nat. title for a work in solid-state protein NMR spectroscopy. 
+Hello there! I am Ekaterina (Katja), I am a software engineer coming from organic chemistry and protein NMR. 
 
-👩‍🎓 In my doctoral years, I focussed on feature engineering in protein structural biology. I adapted of existing models of structure - proterty relationship for a specific case of highly statically disordered samples. 
+I have a soft spot for interactive charting, so I am learning D3 on the side.
+
+🎓 In my doctoral years, I focussed on feature engineering in protein structural biology. I adapted of existing models of structure - proterty relationship for a specific case of highly statically disordered samples. 
 I explored and proposed scores for the *degree of local disorder*. 
 This was a largely interdisciplinary project that combined the domains of quantum physics, molecular biology as well as data science.
 
 🐠 In spring 2024, I graduated from the Data Science Bootcamp @ [neue fische](https://github.com/neuefische), where I practiced my old skills and learn plently of new ones. 
 
-🧑‍🔬 Since 2024, I am working with Czech biotech startup [AI|ffinity](https://www.aiffinity.com/) as a freelance scientific consultant, data analyst, and a software developer.
-
-🌱 In my future career, I would like to apply methods of data science to solve problems in life sciences or engineering.
+🧑‍🔬 Since 2024, I am working at [AI|ffinity](https://www.aiffinity.com/) to make automated protein NMR assignment a reality.
 
 📨 If you are looking for a teammate - drop me an email! burakova.ek@gmail.com
 
@@ -18,7 +18,7 @@ This was a largely interdisciplinary project that combined the domains of quantu
 ## Hackathon Challenges
 - 🤖 [sort GIT out!](https://github.com/eburakova/sortGIT_out) - **AI-Agentic app to chat with your *local* Git repository.** For CheffTreff Hackathon 2025, solution for Finanz Informatik challange. 🚀💸
    - Analyses commit messages and difference logs.
-   - Simple, sleek UI (by Streamlit)
+   - Simple, sleek UI (made with Streamlit)
    - At the Hackathon submission, only Gemini is supported.
    - Developed in <24 hours!
 ## Data science
@@ -29,7 +29,7 @@ This was a largely interdisciplinary project that combined the domains of quantu
 - [`nmr_utils`](https://github.com/eburakova/nmr_utilities) - simple scripts for all things NMR (mostly, for proteins): handy tools for visualization and NUS data handling. 
 - [`protein_heterogeneity_ssnmr`](https://github.com/eburakova/protein_heterogeneity_ssnmr) - the tools related to [the paper in J.Biomol.NMR 2022](https://doi.org/10.1007/s10858-019-00291-z)
 ## Side projects
-- Handled big data to calculate my tax returns 2022-2024. Ask me about my personal tools for **accounting** and **real-time transaction analysis**. 
+- Handled big data to calculate my tax returns 2022-2025. Ask me about my personal tools for **accounting** and **real-time transaction analysis**. 
 - [`geoname_matching`](https://github.com/eburakova/geoname_matching) - search engine for city names, tolerant to misspellings and outdated names.
 
 
