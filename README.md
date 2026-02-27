@@ -8,9 +8,9 @@ This was a largely interdisciplinary project that combined the domains of quantu
 
 🐠 In spring 2024, I graduated from the Data Science Bootcamp @ [neue fische](https://github.com/neuefische), where I practiced my old skills and learn plently of new ones. 
 
-🧑‍🔬 Since 2024, I am working at [AI|ffinity](https://www.aiffinity.com/) to make automated protein NMR assignment a reality.
+🧑‍🔬 Since 2024, I am working at [AI|ffinity](https://www.aiffinity.com/) to finally advance academic NMR software to the nex level and make automated protein assignments a reality.
 
-📨 If you are looking for a teammate - drop me an email! burakova.ek@gmail.com
+📨 If you have a technical problem to solve - drop me an email! burakova.ek@gmail.com
 
 📍 Bremen, DE
 
@@ -28,10 +28,8 @@ This was a largely interdisciplinary project that combined the domains of quantu
 ## NMR
 - [`nmr_utils`](https://github.com/eburakova/nmr_utilities) - simple scripts for all things NMR (mostly, for proteins): handy tools for visualization and NUS data handling. 
 - [`protein_heterogeneity_ssnmr`](https://github.com/eburakova/protein_heterogeneity_ssnmr) - the tools related to [the paper in J.Biomol.NMR 2022](https://doi.org/10.1007/s10858-019-00291-z)
-## Side projects
-- Handled big data to calculate my tax returns 2022-2025. Ask me about my personal tools for **accounting** and **real-time transaction analysis**. 
-- [`geoname_matching`](https://github.com/eburakova/geoname_matching) - search engine for city names, tolerant to misspellings and outdated names.
-
+## Personal projects
+- Handled big, highly heterogeneous and poorly structred datasets to fill out my own tax declarations 2022-2025. Ask me about my personal tools for **accounting** and **real-time transaction analysis**. 
 
 <!---
 eburakova/eburakova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
