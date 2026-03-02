@@ -8,7 +8,7 @@ This was a largely interdisciplinary project that combined the domains of quantu
 
 🐠 In spring 2024, I graduated from the Data Science Bootcamp @ [neue fische](https://github.com/neuefische), where I practiced my old skills and learn plently of new ones. 
 
-🧑‍🔬 Since 2024, I am working at [AI|ffinity](https://www.aiffinity.com/) to finally advance academic NMR software to the nex level and make automated protein assignments a reality.
+🧑‍🔬 Since 2024, I am working at [AI|ffinity](https://www.aiffinity.com/) to finally advance academic NMR software to the next level and make automated protein assignments a reality.
 
 📨 If you have a technical problem to solve - drop me an email! burakova.ek@gmail.com
 
@@ -16,10 +16,10 @@ This was a largely interdisciplinary project that combined the domains of quantu
 
 # NAVIGATION
 ## Hackathon Challenges
-- 🤖 [sort GIT out!](https://github.com/eburakova/sortGIT_out) - **AI-Agentic app to chat with your *local* Git repository.** For CheffTreff Hackathon 2025, solution for Finanz Informatik challange. 🚀💸
+- 🤖 [sort GIT out!](https://github.com/eburakova/sortGIT_out) - AI-Agentic app to chat with your Git repository. For CheffTreff Hackathon 2025, solution for Finanz Informatik challange. 🚀💸
    - Analyses commit messages and difference logs.
+   - Powered by Gemini API (state on April 2025)
    - Simple, sleek UI (made with Streamlit)
-   - At the Hackathon submission, only Gemini API is supported.
    - Developed in <24 hours!
  
 - 🥈 [sustAIn](https://github.com/Emsa001/sustAIn) - Extracting sustainability-related information from PDFs for Bremen AI-Hackathon in summer 2024. Challenge provided by Encoway / Lenze group.
