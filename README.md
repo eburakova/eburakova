@@ -46,7 +46,7 @@ This was a largely interdisciplinary project that combined the domains of quantu
 
   
 ## Personal projects
-- Built my own data processing software to handle **highly heterogeneous and poorly structred transaction histories** - from ground up. Used it to fill out my own tax declarations 2022-2025. Feel free to ask me about this, as well as my experience with **real-time transaction analysis**. _The repositories will remain private. _
+- Built my own data processing software to handle **highly heterogeneous and poorly structred transaction histories** - from ground up. Used it to fill out my own tax declarations 2022-2025. Feel free to ask me about this, as well as my experience with **real-time transaction analysis**. _The repositories will remain private._
 
 <!---
 eburakova/eburakova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
