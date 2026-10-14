@@ -8,7 +8,9 @@ This was a largely interdisciplinary project that combined the domains of quantu
 
 🐠 In spring 2024, I graduated from the Data Science Bootcamp @ [neue fische](https://github.com/neuefische), where I practiced my old skills and learn plently of new ones. 
 
-🧑‍🔬 Since 2024, I am working at [AI|ffinity](https://www.aiffinity.com/) to finally advance academic NMR software to the next level and make automated protein assignments a reality.
+🧑‍🔬 In 2024-2026, I was working at [AI|ffinity](https://www.aiffinity.com/) to finally advance academic NMR software to the next level and make automated protein assignments a reality.
+
+🛰️ Now I am working for SATIFY to improve processing of satellite imagery.
 
 📨 If you have a technical problem to solve - drop me an email! burakova.ek@gmail.com
 
